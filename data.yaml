@@ -26,9 +26,18 @@ eurobioc2018:
 
 eurobioc2019:
   name: "European Bioconductor Meeting 2019"
-  date_start: "2018-12-09"
-  date_end: "2018-12-10"
+  date_start: "2019-12-09"
+  date_end: "2019-12-10"
   city: "Brussels"
   country: "Belgium"
   institution: "Université catholique de Louvain"
   url: "http://eurobioc2019.bioconductor.org/"
+
+eurobioc2020:
+  name: "European Bioconductor Meeting 2020"
+  date_start: "2020-12-14"
+  date_end: "2020-12-18"
+  city: "online"
+  country: "online"
+  institution: "online"
+  url: "http://eurobioc2020.bioconductor.org/"
