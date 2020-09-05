@@ -1,0 +1,14 @@
+## Template:
+## identifier:
+##   name: Full name of meeting
+##   date_start: YYYY-MM-DD
+##   date_end: YYYY-MM-DD
+##   city: City name
+##   country: Country name
+
+eurobioc2017:
+  name: European Bioconductor Meeting 2017
+  date_start: 2017-12-05
+  date_end: 2017-12-06
+  city: Cambridge
+  country: United Kingdom
